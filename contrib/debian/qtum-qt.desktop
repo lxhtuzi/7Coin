@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitcoin Core
+Comment=Connect to the 7Coin P2P Network
+Exec=7Coin-qt %u
+Terminal=false
+Type=Application
+Icon=Predix128
+MimeType=x-scheme-handler/7Coin;
+Categories=Office;Finance;
